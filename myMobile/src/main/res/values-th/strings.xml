@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="action_settings">ตั้งค่า</string>
+    <string name="add">เพิ่มเบอร์โทร</string>
+    <string name="app_name">มือถือของฉัน</string>
+    <string name="hide">เริ่ม</string>
+
+</resources>
